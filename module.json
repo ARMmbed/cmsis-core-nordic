@@ -15,8 +15,8 @@
   "homepage": "https://github.com/ARMmbed/cmsis-core-nordic",
   "license": "Apache-2",
   "dependencies": {
-    "cmsis-core":"*"
-    },
+    "cmsis-core": "*"
+  },
   "targetDependencies": {
     "nrf51822": {
       "cmsis-core-nrf51822": "~0.0.1"
