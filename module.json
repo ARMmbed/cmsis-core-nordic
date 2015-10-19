@@ -5,7 +5,9 @@
   "private": true,
   "keywords": [
     "cmsis",
-    "nordic"
+    "nordic",
+    "mbed",
+    "mbed-official"
   ],
   "author": "Austin Blackstone <austin.blackstone@arm.com>",
   "repository": {
@@ -19,7 +21,7 @@
   },
   "targetDependencies": {
     "nrf51822": {
-      "cmsis-core-nrf51822": "~0.0.1"
+      "cmsis-core-nrf51822": "^1.0.0"
     }
   }
 }
