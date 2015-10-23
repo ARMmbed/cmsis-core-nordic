@@ -2,7 +2,6 @@
   "name": "cmsis-core-nordic",
   "version": "1.0.0",
   "description": "CMSIS Core Implementation for Nordic MCUs",
-  "private": true,
   "keywords": [
     "cmsis",
     "nordic",
